@@ -1,0 +1,14 @@
+.masthead {
+    height: 100vh;
+    max-height: 500px;
+    background-image: url('https://media.self.com/photos/5de6c5e5c358f0000871d266/master/pass/unnamed-2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+.fw-light {
+    color: aliceblue;
+}
+.headline {
+    color: aliceblue;
+}
